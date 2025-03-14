@@ -1,0 +1,24 @@
+
+h1, h2, h3 {
+    font-family: 'Comic Sans MS', cursive;;
+}
+
+p {
+    text-align: center;
+    width: 400px;
+}
+
+#main {
+    color: purple;
+    background-color: green;
+}
+
+#custom {
+    margin: 100;
+    padding-right: 45;
+    background-color: cyan
+}
+
+a {
+    border: 4px solid blue;
+}
